@@ -6,7 +6,7 @@ import EMIProcess from './EMIProcess'
 import FlexibleEMI from './FlexibleEMI'
 import { headingVariants, paraVariants } from '../../utils/motionVariants'
 import { Link } from 'react-router-dom'
-import EMICalculator from './EMIcalculator'
+import EMICalculator from './EMICalculator'
 
 const EMIhero = () => {
   return (
